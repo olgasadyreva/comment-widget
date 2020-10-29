@@ -1,0 +1,36 @@
+.wrap {
+  width: 1200px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  padding: 40px;
+}
+.comments-list {
+  list-style: none;
+  min-width: 400px;
+}
+
+.comments-item {
+  border: 1px solid #cccccc;
+  border-radius: 10px;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
+  width: 400px;
+  padding: 10px 20px;
+  margin-bottom: 20px;
+}
+
+.btn-delete {
+  display: block;
+  margin: 0 auto;
+  padding: 5px 30px;
+}
+
+.message {
+  color: red;
+  font-size: 18px;
+  text-align: center;
+}
+
+.title {
+  text-align: center;
+}

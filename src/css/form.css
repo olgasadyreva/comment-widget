@@ -1,0 +1,31 @@
+.add-comment {
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  font-size: 16px;
+  margin: 0 auto;
+}
+
+.add-author {
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 30px;
+}
+
+.add-text {
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 23px;
+  height: 150px;
+}
+
+.add-btn {
+  width: 200px;
+  margin: 0 auto;
+  padding: 10px;
+  background-color: blue;
+  border-radius: 5px;
+  color: white;
+  font-size: 16px;
+}
